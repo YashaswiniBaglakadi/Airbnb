@@ -16,4 +16,5 @@ This project explores **Fruit sales analysis** in USA, helping to identify key p
 
 # Files
 Friut sales -Excel,twbx(tableau public),Pdf (https://github.com/YashaswiniBaglakadi/Airbnb/tree/f3b3e19f21a7659a3a81371ad3964d8f6df4d881/Airbnb)
+
 Dashboard- Dashboard images
