@@ -1,6 +1,6 @@
 # Airbnb
-Project Overview
-This project explores **Fruit sales analysis** in USA, helping to identify key patterns.
+## Project Overview
+This project explores **Airbnb** in USA, helping to identify key patterns.
 
 # Key Insights
 - Total Listing ,Total reviews by year ,Top Neighbourhood group,Most Common room type
